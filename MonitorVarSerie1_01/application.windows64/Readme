@@ -1,2 +1,29 @@
-File Exe Applications Windows
-
+//File Exe Applications Windows: 
+  \MonitorVarSerie1_01.exe
+//Compress File (zip) to unzip in the folder where we put the exe file
+//for the proper functioning of the executable file (data, lib).
+  \data
+    BLUE_SCHEME
+    chipAz.png
+    chipAz16x16.png
+    chipAz32x32.png
+    Colors.cfg
+    list_507234
+    Monospaced.bold-20.vlw
+ \lib
+    changes.txt
+    core.jar
+    G4P.jar
+    gluegen-rt.jar
+    gluegen-rt-natives-windows-amd64.jar
+    jogl-all.jar
+    jogl-all-natives-windows-amd64.jar
+    jssc.jar
+    jssc.txt
+    jSSC-2.8.dll
+    MonitorVarSerie1_01.jar
+    serial.jar
+  //It is necessary to put in the java directory, the Java Run Time Environment 1.8.0_74
+  //Download in https://www.java.com/es/download/
+  \java
+    
