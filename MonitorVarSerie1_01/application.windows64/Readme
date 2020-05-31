@@ -1,7 +1,10 @@
-//File Exe Applications Windows: 
+//https://1drv.ms/u/s!At77XAafJ7sHgyntjQxclGAJhKU-?e=W5301m
+//link to download all files and folder for de Windows 64 bit Application: MonitorVarSerie1_01.exe
+
+//Unzip File dowloaded into a folder, docble click on the application icon exe
+
+//Unzip content: 
   \MonitorVarSerie1_01.exe
-//Compress File (zip) to unzip in the folder where we put the exe file
-//for the proper functioning of the executable file (data, lib).
   \data
     BLUE_SCHEME
     chipAz.png
@@ -23,7 +26,14 @@
     jSSC-2.8.dll
     MonitorVarSerie1_01.jar
     serial.jar
-  //It is necessary to put in the java directory, the Java Run Time Environment 1.8.0_74
-  //Download in https://www.java.com/es/download/
   \java
-    
+    \bin\ ...
+    \lib\ ...
+    COPYRIGHT
+    LICENSE
+    README.txt
+    release
+    THIRDPARTYLICENSEREADME.txt
+    THIRDPARTYLICENSEREADME-JAVAFX.txt
+    Welcome.html
+\source ... > sources pde processing files.
